@@ -1,15 +1,11 @@
-# DevFest Punjab 2019 
-<!-- [![Build Status](https://travis-ci.org/GDG-Jalandhar/devfest2019.svg?branch=master)](https://travis-ci.org/GDG-Jalandhar/devfest2019) -->
+# IWD Jalandbar 2020
 
-DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building and learning about Google’s technologies.
 
 Version: 1.1.2
 
 ### Show some :heart: and star the repo to support the project
 
 ## Overview
-
-DevFest Punjab is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
 The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
 
