@@ -54,13 +54,13 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="my-0 py-3 d-none d-sm-block ">
+    <!-- <v-container fluid class="my-0 py-3 d-none d-sm-block ">
       <v-layout wrap align-center justify-center row fill-height class="mt-0">
         <v-flex xs12 md10 >
           <FeatureSessions />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
 
     <v-container fluid class="d-none d-sm-block " >
       <v-layout wrap align-center justify-center row fill-height>
