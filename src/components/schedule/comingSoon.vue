@@ -10,7 +10,7 @@
                     This year’s program has been designed to help you sharpen your skills, expand your network, and accelerate your personal development.
                 </p>
                 <p class="google-font mt-0">
-                    We'll update the schedule by 6th September, 2019.
+                    We'll update the schedule by 10th March, 2020.
                 </p>
             </v-flex> 
         </v-layout>

@@ -15,6 +15,7 @@
 
 <script>
 import SpeakerHeader from '@/components/speakers/header'
+
 import SpeakerDetails from '@/components/speakers/speakers'
 
 export default {

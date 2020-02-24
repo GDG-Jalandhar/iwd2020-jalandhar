@@ -7,11 +7,11 @@
   >
     
     <v-flex xs12 class="pa-0">
-      <v-img
+      <!-- <v-img
         height="170"
         :src="require('@/assets/img/main.webp')"
         :lazy-src="require('@/assets/img/main.webp')"
-      ></v-img>
+      ></v-img> -->
       <!-- <p class="google-font mt-2" style="font-size:130%">DevFest Punjab</p> -->
     </v-flex>
 

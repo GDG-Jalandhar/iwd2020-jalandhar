@@ -14,7 +14,7 @@
             </v-flex> 
 
             <v-flex xs12 sm5 md6 lg8 sm4 xl8 order-xs1 order-md2 class="d-none d-sm-block">
-                <v-img
+                <!-- <v-img
                     aspect-ratio="1"
                     style="border:1px solid #e0e0e0;border-top-right-radius:20px;border-bottom-right-radius:40%;"
                     class="white--text"
@@ -37,7 +37,7 @@
                     > 
                         <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
                     </v-layout>
-                </v-img>                
+                </v-img>                 -->
 
             </v-flex> 
         </v-layout>

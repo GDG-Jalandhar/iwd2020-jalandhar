@@ -24,7 +24,7 @@
                 <p class="google-font mb-0" style="font-size:100%">International women's day have been celebrated since years. With devotion to women, we Women Techmakers, Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech. Since, the era of rationalised culture impacted doting together in the work field. </p>
                 <p class="google-font my-0 my-3 mt-5" >
                     <span style="font-size:100%;color:#424242;border:1px solid indigo;border-radius:8px" class="pa-2">
-                        Coming Soon...
+                        Comming Soon...
                     </span>
                 </p> 
 
@@ -40,8 +40,8 @@
             </v-flex>
            <v-flex xs12 sm5 md3 lg5 xl5 class="text-xs-center ">
                 <v-img
-                    :src="require('@/assets/img/bg.png')"
-                    :lazy-src="require('@/assets/img/bg.png')"
+                    :src="require('@/assets/img/home.svg')"
+                    :lazy-src="require('@/assets/img/home.svg')"
                     width="100%">
                     <v-layout
                         slot="placeholder"
