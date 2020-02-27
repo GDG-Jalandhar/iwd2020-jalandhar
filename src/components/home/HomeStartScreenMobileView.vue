@@ -34,13 +34,13 @@
         GDG Jalandhar
       </div>
 
-      <div class="google-font">International women's day have been celebrated since years. With devotion to women, we Women Techmakers, Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech. Since, the era of rationalised culture impacted doting together in the work field.</div>
+      <div class="google-font">International Women's day have been celebrated since years. With devotion to women, we Women Techmakers, Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech. Since, the era of rationalised culture impacted doting together in the work field.</div>
     </v-card-text>
 
     <v-divider class="mx-4"></v-divider>
 
     <v-card-text class="google-font">
-      <div class="subtitle-1 text--primary">Coming Soon...</div>
+      <div class="subtitle-1 text--primary">More Details - Coming Soon...</div>
       <!-- <div class="subtitle-2 text--primary">The LaLit, Chandigarh</div> -->
       <v-chip-group
         small
