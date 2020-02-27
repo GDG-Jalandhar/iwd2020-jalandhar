@@ -1,9 +1,9 @@
 {
     "Organized By":[
         {
-            "name":"GDG Jalandhar",
+            "name":"WTM Jalandhar",
             "link":"https://gdgjalandhar.com",
-            "img":"gdgjalandhar.webp"
+            "img":"wtmjalandhar.webp"
         }
     ],
 
@@ -31,46 +31,19 @@
             "img":"gdglogo.webp"
         },
         {
-            "name":"WomenTechmakers",
+            "name":"Women Techmakers",
             "link":"https://www.womentechmakers.com/",
             "img":"wtm.svg"
         }
     ],
     "Community Partners":[
-        {
-            "name":"JetBrains",
-            "link":"https://www.jetbrains.com",
-            "img":"jetbrains.webp"
-        },
-        {
-            "name":"CodinGurukul",
-            "link":"https://codingurukul.com/",
-            "img":"cg.webp"
-        },
-        {
-            "name":"Mozilla",
-            "link":"https://foundation.mozilla.org/en/",
-            "img":"mozilla.webp"
-        }
+
     ],
     "Giga Sponsors":[
-        {
-            "name":"Coding Blocks",
-            "link":"https://cb.lk/devfest/punjab",
-            "img":"cb.webp"
-        },
-        {
-            "name":"Github",
-            "link":"https://github.com/",
-            "img":"github.webp"
-        }
+
     ],
     "Mega Sponsors":[
-        {
-            "name":"Swami Devi Dyal Group of Professional Institutes",
-            "link":"http://sddgpi.com",
-            "img":"sdd.webp"
-        }
+
     ],
     "Silver Sponsors":[
 
@@ -83,6 +56,11 @@
             "name":"GDG Jalandhar",
             "link":"https://developers.google.com/groups",
             "img":"gdgjalandhar.webp"
+        },
+        {
+            "name":"WTM Jalandhar",
+            "link":"https://developers.google.com/groups",
+            "img":"wtmjalandhar.webp"
         }
     ]    
 
