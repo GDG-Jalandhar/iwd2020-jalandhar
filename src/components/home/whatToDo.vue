@@ -7,7 +7,7 @@
                     <v-card class="pa-3" :elevation="hover ? 0 : 0" style="min-height:200px">
                         <v-icon size="50px">mdi-microphone</v-icon>
                         <p class="google-font my-0" style="font-size:150%;color:#424242">Sessions</p>
-                        <p class="google-font" style="font-size:100%;color:#9e9e9e">3 parallel tracks, dedicated to Android, Web and Cloud technologies</p>
+                        <p class="google-font" style="font-size:100%;color:#9e9e9e">2 parallel tracks, dedicated to tech and non-tech topics.</p>
                     </v-card>
                 </v-hover>
             </v-flex> 
@@ -34,13 +34,11 @@
                     <v-card class="pa-3" :elevation="hover ? 0 : 0">
                         <v-icon size="50px">mdi-lock-pattern</v-icon>
                         <p class="google-font my-0" style="font-size:150%;color:#424242">Networking</p>
-                        <p class="google-font" style="font-size:100%;color:#9e9e9e">Work hard and enjoy DevFest is the best place to meet new people</p>
+                        <p class="google-font" style="font-size:100%;color:#9e9e9e">Work hard and enjoy, IWD will be the best place to meet new people and share your experiences, this March</p>
                     </v-card>
                 </v-hover>
             </v-flex> 
-          
         </v-layout>
-
 
         <v-layout wrap align-center justify-center row fill-height class="hidden-sm-and-up" style="padding-top:5%;padding-bottom:5%;background:#fafafa" >
             <v-flex xs12 class="px-5 mb-2">
@@ -62,9 +60,7 @@
                 <span class="pa-2 google-font" style="border-radius: 7px; background-color: rgb(206, 234, 214); color: rgb(13, 101, 45); font-size: 120%;">Workshop</span>
                 <p class="google-font mt-3" style="font-size:100%;color:#9e9e9e">Work hard and enjoy DevFest is the best place to meet new people</p>
             </v-flex> 
-          
         </v-layout>
-
     </v-container>
 </template>
 
