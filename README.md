@@ -73,7 +73,8 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 - Include relevant test updates/additions
 
 ## Contributors
-<b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj)
+<b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj) & [Varsha Jaiswal](https://github.com/Varsha-Jaiswal)
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
