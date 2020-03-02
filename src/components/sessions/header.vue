@@ -5,7 +5,7 @@
 
             <v-flex xs12 class="px-5">
                <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:200%"><b>Our   
-                    <span style="color: #1a73e8;">Sessions</span></b> 
+                    <span style="color: #0097a7;">Sessions</span></b> 
                 </p>
                 <!-- <p class="google-font mb-1" style="font-weight: 350;color: white;font-size:200%"><b>Our   
                     <span style="color: white;">Sessions</span></b> 

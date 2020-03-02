@@ -6,7 +6,7 @@
         <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:150%">
           <b>
             About
-            <span style="color: #1a73e8;">IWD Jalandhar 2020</span>
+            <span style="color: #0097a7;">IWD Jalandhar 2020</span>
           </b>
         </p>
         <p

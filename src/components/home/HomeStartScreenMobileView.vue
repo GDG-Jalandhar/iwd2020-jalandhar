@@ -3,7 +3,7 @@
   <br>
   <v-card
     flat
-    class="mx-auto my-0 elevation-0"
+    class="mx-auto my-0 elevation-0 text-center"
     max-width=""
     height="90%"
   >
@@ -21,21 +21,7 @@
             <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
         </v-layout>
     </v-img>
-    <v-img
-        :src="require('@/assets/img/logo.png')"
-        :lazy-src="require('@/assets/img/logo.png')"
-        width="5vh" class="ml-4 mt-5">
-        <v-layout
-            slot="placeholder"
-            fill-height
-            align-center
-            justify-center
-            ma-0
-        >
-            <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
-        </v-layout>
-    </v-img>
-
+    
     <v-card-title class="google-font" style="font-size:180%;color:#0097a7;margin-top:-10px">International Women's Day 2020</v-card-title>
     <v-card-text>
       <div class="my-0 black--text google-font mb-5" style="font-size:150%">
@@ -47,42 +33,22 @@
               #TogetherWeRise
           </span>
       </p> 
-      <div class="google-font" style="font-size:110%">International Women's day have been celebrated since years. With devotion to women, we Women Techmakers, Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech. Since, the era of rationalised culture impacted doting together in the work field.</div>
+      <div class="google-font" style="font-size:120%">International Women's day have been celebrated since years. With devotion to women, we Women Techmakers, Jalandhar along with Google Developers Group, Jalandhar want to accomplish a huge tech revolution with growing women in tech. Since, the era of rationalised culture impacted doting together in the work field.</div>
     </v-card-text>
 
     <v-divider class="mx-4"></v-divider>
-
-    <v-card-text class="google-font">
+    <div class="subtitle-1 text--primary">More Details - Coming Soon...</div>
+    <!-- <v-card-text class="google-font text-center">
       <div class="subtitle-1 text--primary">More Details - Coming Soon...</div>
-      <!-- <div class="subtitle-2 text--primary">The LaLit, Chandigarh</div> -->
       <v-chip-group
         small
       >
         <v-chip href="https://twitter.com/hashtag/devfestpunjab" target="_blank">#IWDJalandhar</v-chip>
         <v-chip href="https://twitter.com/hashtag/devfest" target="_blank">#IWD</v-chip>
-        <!-- <v-chip small outlined>#GDGJalandhar</v-chip>
-        <v-chip small outlined>#GDGChandigarh</v-chip> -->
       </v-chip-group>
-    </v-card-text>
+    </v-card-text> -->
 
-    <v-card-actions class="text-center px-4 mb-5">
-        <!-- <p class="google-font">Registration Comming Soon...</p> -->
-      <v-btn
-        dark
-        disabled
-        target="_blank"
-        color="primary"
-        aria-label="Registration Button"
-      >
-        Registration Closed 
-      </v-btn>
-      <!-- <v-btn
-        text
-        color="deep-purple accent-4"
-      >
-        Learn More
-      </v-btn> -->
-    </v-card-actions>
+  
   </v-card>
 
   <v-flex xs12>

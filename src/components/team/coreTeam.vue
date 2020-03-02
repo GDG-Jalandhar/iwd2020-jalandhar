@@ -2,7 +2,7 @@
     <v-container fluid class="pa-0">
         <v-layout wrap align-start justify-start row fill-height class="mt-0 mb-0 mx-3">
             <v-flex xs12 class="mb-3 px-5  d-none d-sm-block">
-                <p class="google-font mb-1" style="font-size:130%;color:#1a73e8">Core Team Members</p>
+                <p class="google-font mb-1" style="font-size:130%;color:#0097a7">Core Team Members</p>
                 <!-- <v-divider></v-divider> -->
             </v-flex>
             <v-flex xs12 md3 lg3 v-for="(item,i) in ShuffleData(TeamDetails)" :key="i" class="px-5 mb-3">

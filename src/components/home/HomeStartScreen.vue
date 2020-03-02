@@ -1,7 +1,7 @@
 <template>
     <v-container fluid class="my-4">
         <v-layout wrap align-center justify-center row fill-height class="py-0">
-            <v-flex xs12 sm7 md7 lg7 xl7 class="px-5 py-3">
+            <v-flex xs12 sm12 md7 lg7 xl7 class="px-5 py-3">
                 <v-img
                     :src="require('@/assets/img/logo.png')"
                     :lazy-src="require('@/assets/img/logo.png')"
@@ -47,7 +47,7 @@
 
                 
             </v-flex>
-           <v-flex xs12 sm5 md3 lg5 xl5 class="text-xs-center ">
+           <v-flex xs12 sm12 md3 lg5 xl5 class="text-xs-center d-none d-sm-block" >
                 <v-img
                     :src="require('@/assets/img/home2.png')"
                     :lazy-src="require('@/assets/img/home2.png')"
