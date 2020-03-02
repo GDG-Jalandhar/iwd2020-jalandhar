@@ -1,7 +1,6 @@
 <template>
   <v-app-bar app
-    color="primary"
-    dark
+    color="white"
     hide-on-scroll
     scroll-off-screen
   >
